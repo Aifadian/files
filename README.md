@@ -1,6 +1,6 @@
 # file-cdn仓库文件访问地址
 
-https://cdn.jsdelivr.net/gh/{githubname}/file-cdn@{version}/{path}/{file}
+https://cdn.jsdelivr.net/gh/{githubname}/cdn@{version}/{path}/{file}
 
 - githubname     # 是你在Github的账户名
 - version        # 是仓库发布的版本好
@@ -9,5 +9,5 @@ https://cdn.jsdelivr.net/gh/{githubname}/file-cdn@{version}/{path}/{file}
 
 完整地址如下：
 
-https://cdn.jsdelivr.net/gh/iqtian/file-cdn@1.0.0/avatar/
+https://cdn.jsdelivr.net/gh/iqtian/cdn@1.0.0/avatar/
 
